@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Dare to dream big, dare to do well</strong>
+  <em>"Dare to dream big, dare to do well"</em>
 </p>
 
 ###
