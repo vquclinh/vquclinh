@@ -4,6 +4,10 @@
   I grew up in Quang Ngai, Vietnam, and I am currently a second-year student in the Advanced Program in Computer Science at the University of Science, Vietnam National University Ho Chi Minh City. Previously, I studied in the Mathematics specialized program at Le Khiet High School for the Gifted in Quang Ngai.
 </p>
 
+<p align="center">
+  <strong>Dare to dream big, dare to do well</strong>
+</p>
+
 ###
 
 <div align="center">
