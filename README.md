@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Vo Quoc Linh. I am currently a second-year student in the Advanced Program in Computer Science at the University of Science, Vietnam National University Ho Chi Minh City.</h2>
+<h2 align="left">Hi 👋! My name is Vo Quoc Linh</h2>
+
+<p align="left">
+  I grew up in Quang Ngai, Vietnam, and I am currently a second-year student in the Advanced Program in Computer Science at the University of Science, Vietnam National University Ho Chi Minh City. Previously, I studied in the Mathematics specialized program at Le Khiet High School for the Gifted in Quang Ngai.
+</p>
 
 ###
 
