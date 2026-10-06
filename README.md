@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vquclinh/vquclinh/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=vquclinh&theme=dracula&hide_border=false" height="150" alt="streak stats"  />
   <img src="https://raw.githubusercontent.com/vquclinh/vquclinh/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
