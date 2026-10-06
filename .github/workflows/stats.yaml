@@ -22,9 +22,11 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false
+          # count_private / include_all_commits need a PAT (secret STATS_TOKEN, scopes: repo, read:user);
+          # with the default GITHUB_TOKEN they fail with "Resource not accessible by integration".
+          options: username=${{ github.repository_owner }}&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=dracula&locale=en&hide_border=false${{ secrets.STATS_TOKEN != '' && '&include_all_commits=true&count_private=true' || '' }}
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
 
       - name: push stats.svg to the output branch
