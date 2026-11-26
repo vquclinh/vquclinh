@@ -1,69 +1,70 @@
-<h2 align="left">Hi 👋! My name is Vo Quoc Linh</h2>
+<h2 align="left">Hi 👋, I'm Vo Quoc Linh</h2>
 
 <p align="left">
-  I grew up in Quang Ngai, Vietnam, and I am currently a second-year student in the Advanced Program in Computer Science at the University of Science, Vietnam National University Ho Chi Minh City. Previously, I studied in the Mathematics specialized program at Le Khiet High School for the Gifted in Quang Ngai.
+  AI engineer and researcher. I study in the <b>Advanced Program in Computer Science (APCS)</b> at the University of Science, VNU-HCM, and I build <b>LLM agents and retrieval systems that check their own evidence</b> before they answer.
 </p>
 
-<p align="center">
-  <em>"Dare to dream big, dare to do well"</em>
+<p align="left">
+  <a href="https://www.vquclinh.fit/"><img src="https://img.shields.io/badge/Portfolio-vquclinh.fit-000000?style=for-the-badge" height="28" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/vquclinh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin" /></a>
+  <a href="mailto:vqlinh.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="email" /></a>
 </p>
 
-###
+### 🔬 What I work on
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vquclinh&theme=dracula&hide_border=false" height="150" alt="streak stats"  />
-  <img src="https://raw.githubusercontent.com/vquclinh/vquclinh/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+- **Evidence-centric LLM inference:** agents that gather, verify and score evidence instead of trusting a single generation
+- **Multimodal and agentic retrieval:** video search with guarded AI agents
+- **Grounded NLP for Vietnamese:** clinical entity linking, multiple-choice reasoning under tight compute budgets
 
-###
+### 📄 Publications
+
+- **ClueScope: Evidence-Centric Multimodal Video Retrieval for Interactive Search**: *MMM 2027*
+- **[COVER-KBC: Evidence-Centric Adaptive Inference for Closed-Book Knowledge Base Construction](https://aclanthology.org/2026.akbc-1.37/)**: *AKBC Workshop @ EMNLP 2026* (sole author) · [code](https://github.com/vquclinh/cover-kbc)
+- **EDGAR: Evidence-Driven Guarded Agentic Retrieval for Video Events**: *SoICT 2026*
+
+### 🏆 Highlights
+
+- 🥉 **Third Prize**, AI Challenge Ho Chi Minh City 2026
+- 🥉 **Third Prize (Top 3)**, Vietnamese Student HackAIthon 2026
+- 🔟 **Top 10**, AKBC Shared Task 2026 (EMNLP 2026)
+- 🎓 **Special Power On Scholarship** 2026
+- 🥉 **Third Prize**, Vietnam National Mathematics Olympiad 2024
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**COVER-KBC**](https://github.com/vquclinh/cover-kbc) | Relation-typed, evidence-centric knowledge extraction from LLMs: hidden-test macro-F1 0.5878 | Python, LLMs |
+| [**FastMCQ Agent**](https://github.com/vquclinh/FastMCQ-Agent) | Vietnamese MCQ reasoning agent with selective routing, debiasing and symbolic solvers: HackAIthon 2026 Third Prize | Python, Docker, Qwen |
+| [**MedNorm-VI**](https://github.com/vquclinh/MedNorm-VI) | Offline Vietnamese clinical entity extraction and ICD-10 / RxNorm linking under a 9B-parameter cap | Python, Qwen3-8B, SapBERT |
+| [**PulseLens**](https://github.com/vquclinh/PulseLens) | Market intelligence from a 14-node multi-agent pipeline where every claim traces back to a source quote | FastAPI, LangGraph, RAG, React |
+| [**DepGuard AI**](https://github.com/vquclinh/DepGuard-AI) | Multi-agent dependency maintenance: CVE detection, breaking-change analysis, auto-patching | FastAPI, Tree-sitter, React |
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
+</p>
+
+**AI/ML:** PyTorch · LLMs · RAG · Multi-Agent Systems · LangChain · LangGraph · Retrieval & Reranking
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="30" alt="xml logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/ASM-525252?style=flat&labelColor=525252&color=525252" height="30" alt="asm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://streak-stats.demolab.com?user=vquclinh&theme=dracula&hide_border=false" height="150" alt="streak stats" />
+  <img src="https://raw.githubusercontent.com/vquclinh/vquclinh/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
-
-###
-
-<div align="left">
-  <a href="https://github.com/vquclinh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
-  </a>
-  <a href="https://www.facebook.com/linh.voquoc.140/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook logo" />
-  </a>
-  <a href="mailto:voquoclinh.29042006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/linh-v%C3%B5-qu%E1%BB%91c-0132a232a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/vquclinh/vquclinh/snake-output/snake.svg" alt="Snake animation" />
-
-###
